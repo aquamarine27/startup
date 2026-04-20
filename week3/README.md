@@ -11,7 +11,8 @@
 
 
 ---
-## Основное название проекта: Quikram
 
 ## Материалы недели
 - 📄 [Quikram-business-analysis (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.docx)
+
+---
