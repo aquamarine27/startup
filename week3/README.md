@@ -13,6 +13,8 @@
 ---
 
 ## Материалы недели
-- 📄 [Quikram-business-analysis (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.docx)
+- 📄 [Quikram-portret-segment (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.docx)
+- 📄 [Quikram-portret-segment (PDF-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.pdf)
+- 📄 [Quikram-portret-segment (markdown)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.md)
 
 ---
