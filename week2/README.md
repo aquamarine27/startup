@@ -14,9 +14,10 @@
 ## Основное название проекта: Quikram
 
 ## Материалы недели
-- 📄 [Quikram-business-analysis (Docx)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.docx)
-- 📝 [Quikram-business-analysis (PDF)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.pdf)
-- 📕 [Quikram-business-analysis (PPTX)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.pptx)
+- 📄 [Quikram-business-analysis (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.docx)
+- 📝 [Quikram-business-analysis (PDF-FILE)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.pdf)
+- 📕 [Quikram-business-analysis (PPTX-FILE)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis.pptx)
+- - 📕 [Quikram-business-analysis (PPTX-PRESENT)](https://github.com/aquamarine27/startup/blob/main/week2/quikram_business_analysis_pptx.pptx)
 
 
 
