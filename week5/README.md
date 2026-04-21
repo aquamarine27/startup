@@ -2,7 +2,7 @@
 **ЭФБО-04-23 · Команда 4**  
 Практическая неделя 5 — 10 марта (9-10 занятие)
 
-**Тема: Формирование портрета потребительского сегмента.**
+**Тема: Формирование гипотезы ценностного предложения. Анализ конкурентных решений.**
 ****
 
 ## Команда
@@ -15,6 +15,5 @@
 ## Материалы недели
 - 📄 [Quikram-portret-segment (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.docx)
 - 📄 [Quikram-portret-segment (PDF-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.pdf)
-- 📄 [Quikram-portret-segment (markdown)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.md)
 
 ---
