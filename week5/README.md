@@ -13,7 +13,7 @@
 ---
 
 ## Материалы недели
-- 📄 [Quikram-portret-segment (Docx-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.docx)
-- 📄 [Quikram-portret-segment (PDF-FILE)](https://github.com/aquamarine27/startup/blob/main/week3/quikram_portret_segment.pdf)
+- 📄 [Quikramt (PPTX-FILE)]()
+- 📄 [Quikram (PDF-FILE)]()
 
 ---
