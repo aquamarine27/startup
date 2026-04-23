@@ -13,7 +13,7 @@
 ---
 
 ## Материалы недели
-- 📄 [Quikramt (PPTX-FILE)]()
-- 📄 [Quikram (PDF-FILE)]()
+- 📄 [Quikram-konkyrent (PPTX-FILE)](https://github.com/aquamarine27/startup/blob/main/week5/Quikram_konkyrent.pptx)
+- 📄 [Quikram-konkyrent (PDF-FILE)](https://github.com/aquamarine27/startup/blob/main/week5/Quikram_konkyrent.pdf)
 
 ---
