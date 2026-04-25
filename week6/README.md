@@ -2,7 +2,7 @@
 **ЭФБО-04-23 · Команда 4**  
 Практическая неделя 6 — 17 марта (11-12 занятие)
 
-**Тема: Формирование гипотезы ценностного предложения. Анализ конкурентных решений.**
+**Тема: Проработка ценностного предложения и функциональности своего решения.**
 ****
 
 ## Команда
@@ -13,7 +13,7 @@
 ---
 
 ## Материалы недели
-- 📄 [Quikramt (PPTX-FILE)]()
-- 📄 [Quikram (PDF-FILE)]()
+- 📄 [Quikram-mvp-core (PDF-VIEW)](https://github.com/aquamarine27/startup/blob/main/week6/Quikram_mvp_core.pdf)
+- 📄 [Quikram-mvp-core (WORD-FILE)](https://github.com/aquamarine27/startup/blob/main/week6/Quikram_mvp_core.docx)
 
 ---
