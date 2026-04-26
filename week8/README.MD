@@ -13,7 +13,6 @@
 ---
 
 ## Материалы недели
-- 📄 [Quikramt (PPTX-FILE)]()
-- 📄 [Quikram (PDF-FILE)]()
+- [MVP - ()]()
 
 ---
