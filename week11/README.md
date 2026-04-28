@@ -13,6 +13,7 @@
 ---
 
 ## Материалы недели
-- На следующей неделе документ с примером монетезации
+- 📄 [quikram-finance-model (WORD-FILE)](https://github.com/aquamarine27/startup/blob/main/week11/quikram_finance_model.docx)
+- 📄 [quikram-finance-model (PDF-VIEW)](https://github.com/aquamarine27/startup/blob/main/week11/quikram_finance_model.pdf)
 
 ---
