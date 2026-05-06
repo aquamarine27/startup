@@ -13,6 +13,6 @@
 ---
 
 ## Материалы недели
-- [MVP - ]()
+- [MVP - ](https://github.com/aquamarine27/quikram)
 
 ---
