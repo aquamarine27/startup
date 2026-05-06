@@ -13,6 +13,6 @@
 ---
 
 ## Материалы недели
-- 📄 [...(PPTX-FILE)]()
-
+- 📄 [quikram-busines-proto (PDF-VIEW)](https://github.com/aquamarine27/startup/blob/main/week10/quikram_proto.pdf)
+- 📄 [quikram-busines-proto (PPTX-FILE)](https://github.com/aquamarine27/startup/blob/main/week10/quikram_proto.pptx)
 ---
