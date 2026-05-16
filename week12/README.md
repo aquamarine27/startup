@@ -13,6 +13,7 @@
 ---
 
 ## Материалы недели
-- 📄 [... (PPTX-FILE)]()
+- 📄 [quikram-growth (PPTX-FILE)](https://github.com/aquamarine27/startup/blob/main/week12/quikram_growth.pptx)
+- 📄 [quikram-growth (PDF-VIEW)](https://github.com/aquamarine27/startup/blob/main/week12/quikram_growth.pdf)
 
 ---
